@@ -1,5 +1,8 @@
-<script setup></script>
-import TodoForm from './TodoForm' import TodoList from './TodoList'
+<script setup>
+import TodoForm from "./TodoForm.vue";
+import TodoList from "./TodoList.vue";
+</script>
+
 <template>
   <div class="todo-app">
     <h1>To Do List</h1>
